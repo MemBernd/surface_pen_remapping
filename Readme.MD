@@ -1,0 +1,1 @@
+Have a look at the header of the *.ahk file
